@@ -1,0 +1,80 @@
+$primary-1: #fe492c;
+$primary-2: white;
+$primary-3: #f6f6f6;
+$text-1: black;
+$text-2: #4d4d4d;
+$hover-button-1: #e44127;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
+header,
+section,
+footer {
+  width: 100%;
+  background-color: $primary-2;
+  padding: 0 30px;
+
+  @media screen and (max-width: 1020px) {
+    padding: 0 25px;
+  }
+
+  @media screen and (max-width: 765px) {
+    padding: 0 20px;
+  }
+
+  @media screen and (max-width: 420px) {
+    padding: 0 10px;
+  }
+}
+
+a {
+  color: $text-1;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+section {
+  max-width: 1920px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+h2 {
+  font-family: "Golos Text", sans-serif;
+}
+
+@mixin flex-space {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.section-name {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background-color: $primary-3;
+  padding: 5px 10px;
+  border-radius: 50px;
+  width: fit-content;
+  font-size: 1rem;
+  margin: 0 auto;
+
+  img {
+    height: 16px;
+  }
+
+  @media screen and (max-width: 765px) {
+    font-size: 0.75rem;
+  }
+}

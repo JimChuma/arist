@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 2048 2048">
+ <defs fill="#000000">
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#fe492c;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer" fill="#000000"/>
+  <g id="_242468480">
+   <rect id="_242468696" class="fil0" width="2048" height="2048" fill="#000000"/>
+   <rect id="_242468552" class="fil0" x="255.999" y="255.999" width="1536" height="1536" fill="#000000"/>
+  </g>
+  <polygon class="fil1" points="1194.01,838.084 1024.66,255.999 863.852,828.073 858.214,848.131 838.084,853.987 255.999,1023.34 828.073,1184.15 848.131,1189.79 853.987,1209.92 1023.34,1792 1184.15,1219.93 1189.79,1199.87 1209.92,1194.01 1792,1024.66 1219.93,863.852 1199.87,858.214 " fill="#000000"/>
+ </g>
+</svg>
