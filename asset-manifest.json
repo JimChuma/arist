@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/arist/static/css/main.89d13827.css",
+    "main.js": "/arist/static/js/main.65b90f3e.js",
+    "static/media/slide-2.jpg": "/arist/static/media/slide-2.3d74b071935c0e586a57.jpg",
+    "static/media/img-1.jpg": "/arist/static/media/img-1.9d365723eb480352f121.jpg",
+    "static/media/slide-3.jpg": "/arist/static/media/slide-3.ff80936a61d301c6b9d8.jpg",
+    "static/media/slide-1.jpg": "/arist/static/media/slide-1.9994b77e1747e1d1e643.jpg",
+    "static/media/Logo.png": "/arist/static/media/Logo.d57767e9d3d340e3e2ba.png",
+    "index.html": "/arist/index.html",
+    "main.89d13827.css.map": "/arist/static/css/main.89d13827.css.map",
+    "main.65b90f3e.js.map": "/arist/static/js/main.65b90f3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d13827.css",
+    "static/js/main.65b90f3e.js"
+  ]
+}
